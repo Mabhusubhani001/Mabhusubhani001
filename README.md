@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Subhani</h1>
 <h3 align="center">An AI & Data Science Enthusiast from India!</h3>
-<img align=‘right’ alt=‘coding’ width=‘400’ src='https://cdn.prod.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif’>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabhusubhani001&label=Profile%20views&color=0e75b6&style=flat" alt="mabhusubhani001" /> </p>
 
