@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Subhani</h1>
 <h3 align="center">An AI & Data Science Enthusiast from India!</h3>
