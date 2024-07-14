@@ -5,12 +5,12 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabhusubhani001&label=Profile%20views&color=0e75b6&style=flat" alt="mabhusubhani001" /> </p>
-
+<img align='right' width='300' alt='coding' src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 - 🌱 I’m currently learning **Data Science, Artificial Intelligence**
 
 - 📫 How to reach me **mabhusubhani001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tJi8NcKlTvvYBgVY_vIrd2TzZ9w_p0-Z/view?usp=sharing](https://drive.google.com/file/d/1tJi8NcKlTvvYBgVY_vIrd2TzZ9w_p0-Z/view?usp=sharing)
+- 📄 Know about my experiences -> [Resume](https://drive.google.com/file/d/1tJi8NcKlTvvYBgVY_vIrd2TzZ9w_p0-Z/view?usp=sharing)
 
 - ⚡ Fun fact **I am codie!🤷🏻‍♂️**
 
