@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabhusubhani001&label=Profile%20views&color=0e75b6&style=flat" alt="mabhusubhani001" /> </p>
 <img align='right' width='300' alt='coding' src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
-- 🌱 I’m currently learning **Data Science, Artificial Intelligence**
+
+- 🌱 I’m currently learning **Data Science & AI**
 
 - 📫 How to reach me **mabhusubhani001@gmail.com**
 
