@@ -1,4 +1,4 @@
-![logo](https://github.com/Mabhusubhani001/Mabhusubhani001/blob/main/IMAGE%202024-07-14%2012%3A29%3A33.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Subhani</h1>
 <h3 align="center">An AI & Data Science Enthusiast from India!</h3>
