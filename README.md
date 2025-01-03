@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences -> [Resume](https://drive.google.com/file/d/1tJi8NcKlTvvYBgVY_vIrd2TzZ9w_p0-Z/view?usp=sharing)
 
-- ⚡ Fun fact **I am codie!🤷🏻‍♂️**
+- ⚡ Fun fact **I am "The DATA Guy!"🤷🏻‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
