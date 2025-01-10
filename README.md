@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mabhusubhani001@gmail.com**
 
-- ⚡ Fun fact **I am "The DATA Guy!"🤷🏻‍♂️**
+- ⚡ Fun fact **I am "The DATA Guy!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
